@@ -1,0 +1,6 @@
+CREATE TABLE Players (
+    PlayerId INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(255),
+    PlayerType VARCHAR(50) 
+);
+
